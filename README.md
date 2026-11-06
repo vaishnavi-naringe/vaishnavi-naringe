@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Vaishnavi Naringe 👋
 
-<!--
-**vaishnavi-naringe/vaishnavi-naringe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Java Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a BCA graduate passionate about software development and building real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Java and Data Structures & Algorithms.
+- 💻 Interested in Java, Spring Boot, React and MySQL.
+- 🚀 Working on improving my coding and problem-solving skills.
+- 🎯 Goal: Become a skilled Java Full Stack Developer.
+
+### 🛠️ Technical Skills
+
+- **Languages:** Java, SQL
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Spring Boot
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Postman, VS Code
+
+### 📌 Current Focus
+
+- Practicing Core Java and OOP concepts.
+- Learning DSA step by step.
+- Building projects using Java and Spring Boot.
+
+### 🤝 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/vaishnavi-naringe-390806339
+
+---
+
+⭐ Thanks for visiting my profile!
+
